@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "java_learn.Main",
+            "projectName": "self_learn_public_402484e6"
+        }
+    ]
+}
